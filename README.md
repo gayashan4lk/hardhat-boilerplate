@@ -45,7 +45,7 @@ Open [http://localhost:3000/](http://localhost:3000/) to see your Dapp. You will
 need to have [Metamask](https://metamask.io) installed and listening to
 `localhost 8545`.
 
-Import One or two Hardhat accounts in to metamask when running the frontend.
+***Import One or two Hardhat accounts in to metamask when running the frontend.***
 
 ## User Guide
 
